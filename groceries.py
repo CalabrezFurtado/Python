@@ -1,3 +1,4 @@
+'''creates a simple groceries list''' 
 try:
 
     def main ():
