@@ -1,6 +1,8 @@
+'''checks validity of Vanity Plates according to their standards''' 
+
 def main():
 
-    global plate
+ test_plates.test_plates.py   global plate
     plate= str(input("Plate: ")).strip()
 
     if is_valid(plate):
