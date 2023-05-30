@@ -1,5 +1,5 @@
 import random
-
+'''simple calculating game'''
 def main():
 
     le = get_level()
