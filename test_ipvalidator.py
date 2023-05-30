@@ -1,4 +1,4 @@
-from numb3rs import validate
+from ipvalidator import validate
 
 def test_validate_numbers():
 
