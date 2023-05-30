@@ -1,4 +1,4 @@
-from working import convert
+from timeconvert import convert
 from pytest import raises
 
 def test_ampmhours():
