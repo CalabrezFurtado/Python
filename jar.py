@@ -1,3 +1,4 @@
+'''creates a simple cookie jar'''
 class Jar:
 
     def __init__(self, capacity=12, cookies = [], size=int()):
