@@ -1,7 +1,7 @@
 import re
 import sys
 
-
+'''converts AM-PM time to 0-24hr'''
 def main():
 
     print(convert(input("Hours: ")))
